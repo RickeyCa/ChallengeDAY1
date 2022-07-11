@@ -1,4 +1,4 @@
 apple
-banana
+banana<- lieblingsfrucht von CH
 orange
 kiwi
